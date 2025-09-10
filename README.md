@@ -5,6 +5,13 @@ This directory contains 4 folders with the necessary data/scripts to plot the pa
 Differential encoding of social identity, valence and unfamiliarity in the amygdala and piriform cortex. Mazuski C, Oettl L-L, Ren C, & O'Keefe J.
 
 Figure1
+Data
+- learning_curve : contains the accuracy per session for each animal for all initial learning sessions
+- days_until_criterion: contains the day/session when each animal reached criterion
+- first_last_rates: contains the hit rates and false alarm rates for each animal for the first and last session
+- olfactory_block: contains the accuracy values per animal before and after the block of olfactory cues
+- visual_block: contains the accuracy values per animal before and after the block of visual cues
+- plot_data: contains the accuracy values in blocks of 20 trials for each session of animal 'BLA04' across the whole experiment
 
 Figure2
 Data
